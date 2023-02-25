@@ -6,6 +6,8 @@ You will implement the merge and quick sort algorithms.
 
 **Learning Objectives:**
 
+
+
 1. understand how merge sort and quicksort work
 1. practice recursion
 1. practice using property-based tests
