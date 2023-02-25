@@ -3,7 +3,8 @@
 Python provides built-in sort/sorted functions that use timsort internally.
 You cannot use these built-in functions anywhere in this file.
 
-Every function in this file takes a comparator `cmp` as input
+Every function in this
+file takes a comparator `cmp` as input
 which controls how the elements of the list
 should be compared against each other:
 If cmp(a, b) returns -1, then a < b;
